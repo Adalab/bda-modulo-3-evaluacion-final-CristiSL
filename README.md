@@ -26,10 +26,10 @@ Los datos consisten en dos datasets complementarios:
 4. **Evaluación por nivel educativo**: análisis descriptivo de vuelos reservados según el nivel educativo de los clientes.
 
 ## 📊 Conclusiones principales
-- La mayoría de clientes no vuela habitualmente: las medianas de vuelos reservados, distancia y puntos acumulados son 0 o 1, lo que indica una base de miembros mayoritariamente inactiva mensualmente.
+- La mayoría de clientes no vuela habitualmente: las medianas de vuelos reservados, distancia y puntos acumulados son 0 ó 1, lo que indica una base de miembros mayoritariamente inactiva mensualmente.
 - El salario no está relacionado con la actividad de vuelo. El poder adquisitivo no determina la frecuencia de vuelo en este programa.
 - La actividad de reservas sigue un patrón estacional claro: pico en verano (junio-agosto) y repunte en diciembre, coincidiendo con periodos vacacionales.
-- El programa mantiene una tasa de retención del 87.7% — la gran mayoría de miembros permanece activa.
+- El programa mantiene una tasa de retención del 87.7%: la gran mayoría de miembros permanece activa.
 - El nivel educativo no influye en el número de vuelos reservados: todos los grupos presentan medias prácticamente idénticas.
 
 ## ⚙️ Requisitos
